@@ -1,0 +1,17 @@
+/* body>*:first-child::before */
+.craigslist-extension {
+  background-color: aquamarine;
+  display: block;
+  z-index: 100000;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.banish {
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 10000;
+    background-color: #fff;
+}
